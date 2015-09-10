@@ -8,7 +8,7 @@ are available.
 
 
 * I've constructed 480x480 pixel plots and saved them to files named
-plot1.png, plot2.png, plot3.png.
+plot1.png, plot2.png, plot3.png and plot4.png.
 
 * Separate R code files (`plot1.R`, `plot2.R`, etc.) construct the corresponding plots.
 
